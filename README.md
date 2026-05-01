@@ -89,7 +89,7 @@ I'm a IT undergrad at **PICT, Pune**, driven by a genuine passion for building t
 <td width="50%" valign="top">
 
 ### 💼 Job Portal — MERN Stack
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/amarraykar](https://github.com/Amarraykar07/job-portal))
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amarraykar07/job-portal)
 ![MERN](https://img.shields.io/badge/Stack-MERN-20232A?style=flat-square&logo=mongodb&logoColor=4DB33D)
 
 A **full-featured hiring platform** bridging recruiters and job seekers through a clean, role-based interface.
