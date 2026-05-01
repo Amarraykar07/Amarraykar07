@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Amar+Raykar+%F0%9F%91%8B;Full+Stack+Developer;DSA+Enthusiast;Cloud+%26+AWS+Learner;Building+for+Impact)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amar%20Raykar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20%40%20PICT%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amar%20Raykar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20BE-IT%20%40%20PICT%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -104,8 +104,8 @@ A **full-featured hiring platform** bridging recruiters and job seekers through 
 <td width="50%" valign="top">
 
 ### 🎯 InterviewForge
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amarraykar)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://interview-platform-drab.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amarraykar07/Interview-Platform.git)
 ![AI](https://img.shields.io/badge/Powered_By-Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white)
 
 An **AI-powered interview preparation platform** that generates personalized technical and HR interview questions with expert answers based on job role and experience level.
@@ -125,7 +125,7 @@ An **AI-powered interview preparation platform** that generates personalized tec
 
 ### 🌿 HerbiVerse
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://herbiverse.vercel.app/)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amarraykar)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amarraykar07/Herbiverse.git)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 An **interactive herbal plant learning platform** designed to help users discover medicinal plants through immersive visuals, rich plant knowledge, and personalized care guidance.
