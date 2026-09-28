@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Amar+Raykar+%F0%9F%91%8B;Full+Stack+Developer;DSA+Enthusiast;Cloud+%26+AWS+Learner;Building+for+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Amar+Raykar+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Cloud+%26+AWS+Learner;Building+for+Impact)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amar%20Raykar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20BE-IT%20%40%20PICT%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=16" width="100%"/>
 
